@@ -2,10 +2,12 @@ Finance team
 Charles
 Lisa
 John
-Stacy
-Alexander
+<<<<<<< HEAD
+
 
 Marketing team
 Collins
 Linda
 Patricia
+=======
+>>>>>>> master
